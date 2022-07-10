@@ -1,0 +1,581 @@
+ID_DESARROLLADOR,Nombre Desarrollador
+DES_0001,Nintendo
+DES_0002,Microsoft Game Studios
+DES_0003,Take-Two Interactive
+DES_0004,Sony Computer Entertainment
+DES_0005,Activision
+DES_0006,Ubisoft
+DES_0007,Bethesda Softworks
+DES_0008,Electronic Arts
+DES_0009,Sega
+DES_0010,SquareSoft
+DES_0011,Atari
+DES_0012,505 Games
+DES_0013,Capcom
+DES_0014,GT Interactive
+DES_0015,Konami Digital Entertainment
+DES_0016,Square Enix
+DES_0017,Sony Computer Entertainment Europe
+DES_0018,Virgin Interactive
+DES_0019,LucasArts
+DES_0020,Warner Bros. Interactive Entertainment
+DES_0021,Universal Interactive
+DES_0022,Eidos Interactive
+DES_0023,RedOctane
+DES_0024,Vivendi Games
+DES_0025,Enix Corporation
+DES_0026,Namco Bandai Games
+DES_0027,Palcom
+DES_0028,Hasbro Interactive
+DES_0029,THQ
+DES_0030,Fox Interactive
+DES_0031,Acclaim Entertainment
+DES_0032,MTV Games
+DES_0033,Disney Interactive Studios
+DES_0034,Codemasters
+DES_0035,Majesco Entertainment
+DES_0036,Red Orb
+DES_0037,Level 5
+DES_0038,Arena Entertainment
+DES_0039,Midway Games
+DES_0040,JVC
+DES_0041,Deep Silver
+DES_0042,NCSoft
+DES_0043,989 Studios
+DES_0044,UEP Systems
+DES_0045,Parker Bros.
+DES_0046,Maxis
+DES_0047,Imagic
+DES_0048,Tecmo Koei
+DES_0049,ASCII Entertainment
+DES_0050,Valve Software
+DES_0051,Mindscape
+DES_0052,Infogrames
+DES_0053,Unknown
+DES_0054,Square
+DES_0055,Valve
+DES_0056,Banpresto
+DES_0057,Hello Games
+DES_0058,D3Publisher
+DES_0059,Activision Value
+DES_0060,Oxygen Interactive
+DES_0061,Red Storm Entertainment
+DES_0062,Video System
+DES_0063,Global Star
+DES_0064,Gotham Games
+DES_0065,Westwood Studios
+DES_0066,GungHo
+DES_0067,Crave Entertainment
+DES_0068,Hudson Soft
+DES_0069,Coleco
+DES_0070,Rising Star Games
+DES_0071,TDK Mediactive
+DES_0072,ASC Games
+DES_0073,Accolade
+DES_0074,Zoo Games
+DES_0075,Sony Online Entertainment
+DES_0076,3DO
+DES_0077,Natsume
+DES_0078,RTL
+DES_0079,Alchemist
+DES_0080,Black Label Games
+DES_0081,SouthPeak Games
+DES_0082,Focus Home Interactive
+DES_0083,Ocean
+DES_0084,Zoo Digital Publishing
+DES_0085,Psygnosis
+DES_0086,City Interactive
+DES_0087,Empire Interactive
+DES_0088,Success
+DES_0089,Compile
+DES_0090,Russel
+DES_0091,Atlus
+DES_0092,Mastertronic
+DES_0093,Slightly Mad Studios
+DES_0094,Taito
+DES_0095,Agetec
+DES_0096,Microprose
+DES_0097,Play It
+DES_0098,GSP
+DES_0099,Tomy Corporation
+DES_0100,Sammy Corporation
+DES_0101,Koch Media
+DES_0102,Game Factory
+DES_0103,Titus
+DES_0104,Marvelous Entertainment
+DES_0105,Genki
+DES_0106,Mojang
+DES_0107,CTO SpA
+DES_0108,TalonSoft
+DES_0109,Crystal Dynamics
+DES_0110,"mixi, Inc"
+DES_0111,Pinnacle
+DES_0112,SCi
+DES_0113,Quelle
+DES_0114,Rage Software
+DES_0115,Ubisoft Annecy
+DES_0116,Interplay
+DES_0117,Scholastic Inc.
+DES_0118,Mystique
+DES_0119,ChunSoft
+DES_0120,Square EA
+DES_0121,20th Century Fox Video Games
+DES_0122,Hudson Entertainment
+DES_0123,Men-A-Vision
+DES_0124,Nobilis
+DES_0125,Avanquest Software
+DES_0126,Big Ben Interactive
+DES_0127,Nordic Games
+DES_0128,Touchstone
+DES_0129,Spike
+DES_0130,Nippon Ichi Software
+DES_0131,Sony Computer Entertainment America
+DES_0132,Jester Interactive
+DES_0133,LEGO Media
+DES_0134,Quest
+DES_0135,Illusion Softworks
+DES_0136,Tigervision
+DES_0137,Rocket Company
+DES_0138,Metro 3D
+DES_0139,Mattel Interactive
+DES_0140,IE Institute
+DES_0141,Funbox Media
+DES_0142,Rondomedia
+DES_0143,Universal Gamex
+DES_0144,Ghostlight
+DES_0145,Wizard Video Games
+DES_0146,BMG Interactive Entertainment
+DES_0147,PQube
+DES_0148,Trion Worlds
+DES_0149,Xseed Games
+DES_0150,Laguna
+DES_0151,Takara
+DES_0152,Ignition Entertainment
+DES_0153,Kadokawa Shoten
+DES_0154,Enterbrain
+DES_0155,Imagineer
+DES_0156,CPG Products
+DES_0157,System 3 Arcade Software
+DES_0158,Aruze Corp
+DES_0159,Destineer
+DES_0160,Gamebridge
+DES_0161,Midas Interactive Entertainment
+DES_0162,Jaleco
+DES_0163,Answer Software
+DES_0164,Pack In Soft
+DES_0165,XS Games
+DES_0166,Rebellion
+DES_0167,Ultravision
+DES_0168,Harmonix Music Systems
+DES_0169,Activision Blizzard
+DES_0170,Xplosiv
+DES_0171,Wanadoo
+DES_0172,Telltale Games
+DES_0173,NovaLogic
+DES_0174,Epoch
+DES_0175,BAM! Entertainment
+DES_0176,GameMill Entertainment
+DES_0177,Knowledge Adventure
+DES_0178,Tetris Online
+DES_0179,Mastiff
+DES_0180,ESP
+DES_0181,TYO
+DES_0182,Telegames
+DES_0183,Mud Duck Productions
+DES_0184,Screenlife
+DES_0185,Pioneer LDC
+DES_0186,Magical Company
+DES_0187,Kemco
+DES_0188,Mentor Interactive
+DES_0189,Human Entertainment
+DES_0190,Data Age
+DES_0191,Electronic Arts Victor
+DES_0192,Jack of All Games
+DES_0193,Avanquest
+DES_0194,Black Bean Games
+DES_0195,989 Sports
+DES_0196,Takara Tomy
+DES_0197,Media Rings
+DES_0198,Elf
+DES_0199,Starfish
+DES_0200,Zushi Games
+DES_0201,Jorudan
+DES_0202,"Destination Software, Inc"
+DES_0203,New
+DES_0204,Brash Entertainment
+DES_0205,Kalypso Media
+DES_0206,ITT Family Games
+DES_0207,Ackkstudios
+DES_0208,PopCap Games
+DES_0209,Starpath Corp.
+DES_0210,BPS
+DES_0211,Gathering of Developers
+DES_0212,NewKidCo
+DES_0213,Marvelous Interactive
+DES_0214,Storm City Games
+DES_0215,CokeM Interactive
+DES_0216,P2 Games
+DES_0217,CBS Electronics
+DES_0218,Home Entertainment Suppliers
+DES_0219,Magix
+DES_0220,Arc System Works
+DES_0221,Angel Studios
+DES_0222,Wargaming.net
+DES_0223,Playmates
+DES_0224,SNK Playmore
+DES_0225,Hamster Corporation
+DES_0226,From Software
+DES_0227,Nippon Columbia
+DES_0228,Nichibutsu
+DES_0229,Conspiracy Entertainment
+DES_0230,Hect
+DES_0231,Mumbo Jumbo
+DES_0232,DTP Entertainment
+DES_0233,Pacific Century Cyber Works
+DES_0234,Indie Games
+DES_0235,Liquid Games
+DES_0236,NEC
+DES_0237,Axela
+DES_0238,ArtDink
+DES_0239,Sunsoft
+DES_0240,Little Orbit
+DES_0241,FuRyu
+DES_0242,Gust
+DES_0243,SNK
+DES_0244,NEC Interchannel
+DES_0245,Nihon Falcom Corporation
+DES_0246,Xing Entertainment
+DES_0247,ValuSoft
+DES_0248,Victor Interactive
+DES_0249,American Softworks
+DES_0250,Falcom Corporation
+DES_0251,Detn8 Games
+DES_0252,Bomb
+DES_0253,Nordcurrent
+DES_0254,Milestone S.r.l.
+DES_0255,AQ Interactive
+DES_0256,Sears
+DES_0257,Seta Corporation
+DES_0258,On Demand
+DES_0259,CCP
+DES_0260,NCS
+DES_0261,Rebellion Developments
+DES_0262,Agatsuma Entertainment
+DES_0263,Gremlin Interactive Ltd
+DES_0264,Aspyr
+DES_0265,Compile Heart
+DES_0266,Culture Brain
+DES_0267,Mad Catz
+DES_0268,Shogakukan
+DES_0269,Merscom LLC
+DES_0270,JoWood Productions
+DES_0271,Nippon Telenet
+DES_0272,TDK Core
+DES_0273,Kadokawa Games
+DES_0274,SSI
+DES_0275,Foreign Media Games
+DES_0276,Core Design Ltd.
+DES_0277,bitComposer Games
+DES_0278,Astragon
+DES_0279,Asylum Entertainment
+DES_0280,Performance Designed Products
+DES_0281,UFO Interactive
+DES_0282,Essential Games
+DES_0283,Adeline Software
+DES_0284,Funcom
+DES_0285,PlayV
+DES_0286,Panther Software
+DES_0287,Blast! Entertainment Ltd
+DES_0288,Playlogic Game Factory
+DES_0289,DSI Games
+DES_0290,Avalon Interactive
+DES_0291,Game Life
+DES_0292,Popcorn Arcade
+DES_0293,Aques
+DES_0294,System 3
+DES_0295,Syscom
+DES_0296,Vir2L Studios
+DES_0297,Vatical Entertainment
+DES_0298,Neko Entertainment
+DES_0299,White Park Bay Software
+DES_0300,Vic Tokai
+DES_0301,Media Factory
+DES_0302,Daedalic
+DES_0303,Game Arts
+DES_0304,The Adventure Company
+DES_0305,EA Games
+DES_0306,Acquire
+DES_0307,Broccoli
+DES_0308,General Entertainment
+DES_0309,Paradox Interactive
+DES_0310,Yacht Club Games
+DES_0311,Imadio
+DES_0312,Swing! Entertainment
+DES_0313,Sony Music Entertainment
+DES_0314,Aqua Plus
+DES_0315,Excalibur Publishing
+DES_0316,Hip Interactive
+DES_0317,Tripwire Interactive
+DES_0318,DreamCatcher Interactive
+DES_0319,SCS Software
+DES_0320,Havas Interactive
+DES_0321,Sting
+DES_0322,Idea Factory
+DES_0323,Telstar
+DES_0324,U.S. Gold
+DES_0325,Funsta
+DES_0326,DreamWorks Interactive
+DES_0327,Slitherine Software
+DES_0328,MTO
+DES_0329,Graffiti
+DES_0330,Tru Blu Entertainment
+DES_0331,DHM Interactive
+DES_0332,Crytek
+DES_0333,FunSoft
+DES_0334,Data Design Interactive
+DES_0335,SPS
+DES_0336,Moss
+DES_0337,T&E Soft
+DES_0338,NDA Productions
+DES_0339,Bigben Interactive
+DES_0340,Data East
+DES_0341,Idea Factory International
+DES_0342,Time Warner Interactive
+DES_0343,Gainax Network Systems
+DES_0344,Daito
+DES_0345,O3 Entertainment
+DES_0346,O-Games
+DES_0347,Gameloft
+DES_0348,Xicat Interactive
+DES_0349,Simon & Schuster Interactive
+DES_0350,Valcon Games
+DES_0351,PopTop Software
+DES_0352,TOHO
+DES_0353,PM Studios
+DES_0354,Bohemia Interactive
+DES_0355,Reef Entertainment
+DES_0356,5pb
+DES_0357,HMH Interactive
+DES_0358,inXile Entertainment
+DES_0359,Cave
+DES_0360,Microids
+DES_0361,Paon
+DES_0362,CDV Software Entertainment
+DES_0363,Micro Cabin
+DES_0364,GameTek
+DES_0365,Benesse
+DES_0366,Type-Moon
+DES_0367,Enjoy Gaming ltd.
+DES_0368,Asmik Corp
+DES_0369,Interplay Productions
+DES_0370,Asmik Ace Entertainment
+DES_0371,Image Epoch
+DES_0372,Phantom EFX
+DES_0373,Evolved Games
+DES_0374,responDESIGN
+DES_0375,Griffin International
+DES_0376,Culture Publishers
+DES_0377,Hackberry
+DES_0378,Hearty Robin
+DES_0379,Nippon Amuse
+DES_0380,Origin Systems
+DES_0381,Seventh Chord
+DES_0382,Abylight
+DES_0383,Mitsui
+DES_0384,Insomniac Games
+DES_0385,Flight-Plan
+DES_0386,Milestone
+DES_0387,Glams
+DES_0388,Aksys Games
+DES_0389,Locus
+DES_0390,Warp
+DES_0391,Irem Software Engineering
+DES_0392,Myelin Media
+DES_0393,Global A Entertainment
+DES_0394,Alternative Software
+DES_0395,Mercury Games
+DES_0396,Sunrise Interactive
+DES_0397,Elite
+DES_0398,Evolution Games
+DES_0399,Daedalic Entertainment
+DES_0400,Edia
+DES_0401,Athena
+DES_0402,Aria
+DES_0403,Tivola
+DES_0404,Happinet
+DES_0405,Tommo
+DES_0406,Altron
+DES_0407,Revolution Software
+DES_0408,Media Works
+DES_0409,Fortyfive
+DES_0410,Gamecock
+DES_0411,Imax
+DES_0412,10TACLE Studios
+DES_0413,Groove Games
+DES_0414,Pack-In-Video
+DES_0415,Crimson Cow
+DES_0416,iWin
+DES_0417,Asgard
+DES_0418,Ecole
+DES_0419,Yumedia
+DES_0420,Ascaron Entertainment GmbH
+DES_0421,HAL Laboratory
+DES_0422,Phenomedia
+DES_0423,Grand Prix Games
+DES_0424,DigiCube
+DES_0425,Creative Core
+DES_0426,Kaga Create
+DES_0427,WayForward Technologies
+DES_0428,LSP Games
+DES_0429,ASCII Media Works
+DES_0430,1C Company
+DES_0431,Coconuts Japan
+DES_0432,Arika
+DES_0433,Marvel Entertainment
+DES_0434,Ertain
+DES_0435,Prototype
+DES_0436,Phantagram
+DES_0437,The Learning Company
+DES_0438,TechnoSoft
+DES_0439,MLB.com
+DES_0440,Vap
+DES_0441,Misawa
+DES_0442,Yeti
+DES_0443,Dusenberry Martin Racing
+DES_0444,Navarre Corp
+DES_0445,Pow
+DES_0446,MediaQuest
+DES_0447,Team17 Software
+DES_0448,Max Five
+DES_0449,Tradewest
+DES_0450,Comfort
+DES_0451,Milestone S.r.l
+DES_0452,Pony Canyon
+DES_0453,Riverhillsoft
+DES_0454,Summitsoft
+DES_0455,Playmore
+DES_0456,Kool Kizz
+DES_0457,Monte Christo Multimedia
+DES_0458,TopWare Interactive
+DES_0459,Legacy Interactive
+DES_0460,Cloud Imperium Games Corporation
+DES_0461,Flashpoint Games
+DES_0462,CyberFront
+DES_0463,Alawar Entertainment
+DES_0464,Societa
+DES_0465,Interchannel
+DES_0466,Experience Inc.
+DES_0467,Sonnet
+DES_0468,Virtual Play Games
+DES_0469,Zenrin
+DES_0470,Iceberg Interactive
+DES_0471,Ivolgamus
+DES_0472,MC2 Entertainment
+DES_0473,2D Boy
+DES_0474,Games Workshop
+DES_0475,Kando Games
+DES_0476,Office Create
+DES_0477,Maximum Family Games
+DES_0478,Fields
+DES_0479,Gearbox Software
+DES_0480,Princess Soft
+DES_0481,Extreme Entertainment Group
+DES_0482,Big Fish Games
+DES_0483,Berkeley
+DES_0484,Mamba Games
+DES_0485,Fuji
+DES_0486,FuRyu Corporation
+DES_0487,Her Interactive
+DES_0488,imageepoch Inc.
+DES_0489,Just Flight
+DES_0490,Kamui
+DES_0491,ASK
+DES_0492,Cygames
+DES_0493,Introversion Software
+DES_0494,49Games
+DES_0495,KSS
+DES_0496,dramatic create
+DES_0497,TGL
+DES_0498,KID
+DES_0499,Quinrose
+DES_0500,Sold Out
+DES_0501,Encore
+DES_0502,G.Rev
+DES_0503,Sunflowers
+DES_0504,Headup Games
+DES_0505,Sweets
+DES_0506,Kokopeli Digital Studios
+DES_0507,id Software
+DES_0508,Nexon
+DES_0509,BushiRoad
+DES_0510,Devolver Digital
+DES_0511,Number None
+DES_0512,Tryfirst
+DES_0513,GN Software
+DES_0514,Yuke's
+DES_0515,Strategy First
+DES_0516,Lexicon Entertainment
+DES_0517,Paon Corporation
+DES_0518,Kids Station
+DES_0519,Licensed 4U
+DES_0520,GOA
+DES_0521,7G//AMES
+DES_0522,King Records
+DES_0523,Minato Station
+DES_0524,Graphsim Entertainment
+DES_0525,Easy Interactive
+DES_0526,Gaga
+DES_0527,Yamasa Entertainment
+DES_0528,Plenty
+DES_0529,Views
+DES_0530,Blue Byte
+DES_0531,fonfun
+DES_0532,NetRevo
+DES_0533,Epic Games
+DES_0534,Quintet
+DES_0535,Focus Multimedia
+DES_0536,Phoenix Games
+DES_0537,Marvelous Games
+DES_0538,Dorart
+DES_0539,Codemasters Online
+DES_0540,Stainless Games
+DES_0541,Aerosoft
+DES_0542,Imageworks
+DES_0543,Karin Entertainment
+DES_0544,Technos Japan Corporation
+DES_0545,Masque Publishing
+DES_0546,Gakken
+DES_0547,New World Computing
+DES_0548,Mirai Shounen
+DES_0549,Datam Polystar
+DES_0550,HuneX
+DES_0551,Visco
+DES_0552,Saurus
+DES_0553,Revolution (Japan)
+DES_0554,Giza10
+DES_0555,Alvion
+DES_0556,Giga
+DES_0557,Mycom
+DES_0558,Warashi
+DES_0559,System Soft
+DES_0560,RED Entertainment
+DES_0561,Lighthouse Interactive
+DES_0562,Michaelsoft
+DES_0563,Media Entertainment
+DES_0564,Genterprise
+DES_0565,"Interworks Unlimited, Inc."
+DES_0566,Inti Creates
+DES_0567,Boost On
+DES_0568,EON Digital Entertainment
+DES_0569,Nitroplus
+DES_0570,Naxat Soft
+DES_0571,Piacci
+DES_0572,Paradox Development
+DES_0573,Otomate
+DES_0574,Ascaron Entertainment
+DES_0575,Ongakukan
+DES_0576,Commseed
+DES_0577,UIG Entertainment
+DES_0578,Takuyo
+DES_0579,Interchannel-Holon
+DES_0580,Red Flagship

@@ -1,0 +1,31 @@
+ID_CONSOLA,Siglas Consola,Nombre Consola,Familia Consolas
+CONS_001,3DS,Nintendo 3DS,Nintendo
+CONS_002,DS,Nintendeo DS,Nintendo
+CONS_003,GBA,Game Boy Advance,Nintendo
+CONS_004,GC,Game Cube,Nintendo
+CONS_005,PC,PC (Computadora),PC (Computadora)
+CONS_006,PS2,PlayStation 2,PlayStation
+CONS_007,PS3,PlayStation 3,PlayStation
+CONS_008,PS4,PlayStation 4,PlayStation
+CONS_009,PSP,PlayStation Portable,PlayStation
+CONS_010,PSV,PlayStation Vita,PlayStation
+CONS_011,Wii,Nintendo Wii,Nintendo
+CONS_012,WiiU,Nintendo Wii U,Nintendo
+CONS_013,X360,Xbox 360,XBox (Microsoft)
+CONS_014,XB,Xbox,XBox (Microsoft)
+CONS_015,XOne,Xbox One,XBox (Microsoft)
+CONS_016,NES,Nintendo NES,Nintendo
+CONS_017,GB,Gameboy,Nintendo
+CONS_018,PS,PlayStation 1,PlayStation
+CONS_019,N64,Nintendo 64,Nintendo
+CONS_020,Atari 2600,Atari 2600,Otros
+CONS_021,GEN,Genesis,SEGA
+CONS_022,DC,Dreamcast,SEGA
+CONS_023,SAT,Saturn,SEGA
+CONS_024,SCD,Sega CD,SEGA
+CONS_025,WS,Wonderswan,Otros
+CONS_026,NG,Neo Geo,Otros
+CONS_027,TG16,TurboGrafx-16,Otros
+CONS_028,3DO,Panasonic 3DO,Otros
+CONS_029,GG,Game Gear,SEGA
+CONS_030,PCFX,PCFX,Otros
